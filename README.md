@@ -14,6 +14,6 @@ In this project, i designed the spell autocorrect model based on given vocabular
   - Edit two letters
 - Suggest spelling suggestions
 - Minimum Edit distance
-  - min edit distance by dynamic Programming
+  - minimum edit distance by using dynamic Programming approach
 - Testing
   
