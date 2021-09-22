@@ -12,7 +12,7 @@ In this project, i designed the spell autocorrect model based on given vocabular
 - Combining the edits
   - Edit one letter
   - Edit two letters
-- Suggest spelling suggestions
+- spelling suggestions
 - Minimum Edit distance
   - minimum edit distance by using dynamic Programming approach
 - Testing
